@@ -102,29 +102,6 @@ Throughout this training, I gained practical experience in:
 
 ---
 
-## Project Structure
-
-```text
-CCSP-13J-FullStack-Java/
-│
-├── Core Java/
-├── Advanced Java/
-├── JDBC/
-├── SQL/
-├── HTML/
-├── CSS/
-├── JavaScript/
-├── Bootstrap/
-├── React/
-├── Spring/
-├── Spring Boot/
-├── Hibernate/
-├── Assignments/
-├── Mini Projects/
-└── README.md
-```
-
----
 
 ## Installation
 
